@@ -35,3 +35,8 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'infor
 ---
 
 *Inspiré par la passion des cryptomonnaies et l'amour des projets électroniques.*
+
+# Photo du produit actuel 
+
+
+![IMG_0063](https://github.com/user-attachments/assets/09df46ed-8839-4552-b92f-6d61a668016f)
