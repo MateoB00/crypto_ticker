@@ -26,7 +26,7 @@ Ce projet est sous Python.
 
 ### API
 
-- Accès aux données en temps réel des cryptomonnaies depuis **CoinGecko**.
+- Accès aux données en temps réel des cryptomonnaies depuis les data on-chains (web3, HL)
 
 ## Licence
 
