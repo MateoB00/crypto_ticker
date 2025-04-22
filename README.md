@@ -38,5 +38,5 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'infor
 
 # Photo du produit actuel 
 
+![IMG_0538](https://github.com/user-attachments/assets/952d5faa-0277-498e-a4b8-3a69e8bb15e2)
 
-![IMG_0063](https://github.com/user-attachments/assets/09df46ed-8839-4552-b92f-6d61a668016f)
